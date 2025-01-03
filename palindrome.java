@@ -17,6 +17,8 @@ public class palindrome{
             n /= 10; /
         }
         System.out.println(r);
+
+        //compare original no. with reversed no.
         if (o == r) {
             System.out.println(o + " is a palindrome.");
         } else {
