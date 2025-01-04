@@ -6,6 +6,7 @@ public class swap{
         int n = scanner.nextInt();
         int m = scanner.nextInt();
 
+        //using XOR function
         n = n^m;
         m = m^n;
         n = n^m;
