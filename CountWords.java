@@ -18,3 +18,17 @@ Constraints:
 1 <= words.length <= 100
 1 <= words[i].length, pref.length <= 100
 words[i] and pref consist of lowercase English letters.
+
+SOLUTION:-
+  class Solution {
+    public int prefixCount(String[] words, String pref) {
+        int count = 0;
+        for (String word : words) {
+            if (word.startsWith(pref)) {
+                count++;
+            }
+        }
+        return count;
+    }
+}
+
