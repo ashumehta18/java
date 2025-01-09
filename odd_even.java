@@ -1,6 +1,5 @@
 //using function  return true for even and false for odd
 import java.util.*;
-
 public class odd_even{
     public boolean check(int n){
         if(n% 2 == 0){
