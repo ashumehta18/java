@@ -12,7 +12,8 @@ class Solution {
 
     private String describe(String s) {
         StringBuilder sb = new StringBuilder();
-        int count = 1;
+        int count = 2;
+        count = 1;
 
         for (int i = 1; i < s.length(); i++) {
             if (s.charAt(i) == s.charAt(i - 1)) {
@@ -25,5 +26,6 @@ class Solution {
 
         sb.append(count).append(s.charAt(s.length() - 1));
         return sb.toString();
+        // return sb.toString();
     }
 }
