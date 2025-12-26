@@ -1,5 +1,7 @@
 https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/description/?envType=daily-question&envId=2025-04-09
 
+// Time Complexity: O(n log n) - Sorting the array
+// Space Complexity: O(1) - Only constant extra space used (excluding sort space)
 import java.util.*;
 
 class Solution {

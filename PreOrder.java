@@ -1,5 +1,7 @@
 https://leetcode.com/problems/binary-tree-preorder-traversal/
 
+// Time Complexity: O(n) - Visit each node once
+// Space Complexity: O(h) - Recursion stack depth where h is tree height
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

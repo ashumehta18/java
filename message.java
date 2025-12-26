@@ -1,4 +1,7 @@
 // recursion concept  lec 1
+
+// Time Complexity: O(1) - Fixed number of function calls (4 calls)
+// Space Complexity: O(1) - Fixed call stack depth (4 frames)
 import java.util.*;
 
 public class message {

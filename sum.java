@@ -1,3 +1,5 @@
+// Time Complexity: O(1) - Fixed number of operations
+// Space Complexity: O(1) - Only constant extra space used
 import java.util.*;
 
 public class sum{

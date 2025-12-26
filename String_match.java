@@ -29,6 +29,9 @@ All the strings of words are unique.
 
 
  solution:-
+
+// Time Complexity: O(n²) - Nested loops checking all word pairs
+// Space Complexity: O(k) - Result list with k matching words
  class Solution {
     public List<String> stringMatching(String[] words) {
        List<String> result = new ArrayList<>(); 

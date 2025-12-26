@@ -1,5 +1,7 @@
 //ROTATE 2D ARRAY BY 90 DEGREES
 
+// Time Complexity: O(n²) - Iterate through all n×n elements
+// Space Complexity: O(n²) - New array for rotated result
 
 import java.util.Scanner;
 

@@ -1,5 +1,7 @@
 https://leetcode.com/problems/implement-queue-using-stacks/
 
+// Time Complexity: O(1) amortized for all operations
+// Space Complexity: O(n) - Two stacks store n elements
 
 class MyQueue {
 

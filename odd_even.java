@@ -1,4 +1,7 @@
 //using function  return true for even and false for odd
+
+// Time Complexity: O(1) - Single modulo operation
+// Space Complexity: O(1) - Only constant extra space used
 import java.util.*;
 public class odd_even{
     public boolean check(int n){

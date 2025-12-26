@@ -1,3 +1,5 @@
+// Time Complexity: O(1) - Fixed number of input/output operations
+// Space Complexity: O(1) - Only constant extra space used
 mport java.util.*;
 public class input{
     public static void main(String args[]){

@@ -1,5 +1,7 @@
 https://leetcode.com/problems/count-the-hidden-sequences/description/?envType=daily-question&envId=2025-04-21
 
+// Time Complexity: O(n) - Single pass through differences array
+// Space Complexity: O(1) - Only constant extra space used
 class Solution {
     public int numberOfArrays(int[] differences, int lower, int upper) {
         long min = 0, max = 0, sum = 0;

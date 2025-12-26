@@ -1,4 +1,7 @@
  // checked factorial of a no. calculate
+
+// Time Complexity: O(n) - Recursive calls n times
+// Space Complexity: O(n) - Recursion stack depth
 import java.util.*;
 public class factorial {
     public static int fact(int n){

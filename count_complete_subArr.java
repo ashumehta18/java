@@ -1,5 +1,7 @@
 https://leetcode.com/problems/count-complete-subarrays-in-an-array/?envType=daily-question&envId=2025-04-24
 
+// Time Complexity: O(n²) - Nested loops to check all subarrays
+// Space Complexity: O(n) - HashSet to track distinct elements
 import java.util.*;
 
 class Solution {

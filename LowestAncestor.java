@@ -1,4 +1,7 @@
 https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/?envType=daily-question&envId=2025-04-04
+
+// Time Complexity: O(n) - Visit each node once in the tree
+// Space Complexity: O(h) - Recursion stack depth where h is tree height
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
