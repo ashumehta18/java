@@ -1,4 +1,4 @@
-https://leetcode.com/problems/count-good-triplets/?envType=daily-question&envId=2025-04-14
+// https://leetcode.com/problems/count-good-triplets/?envType=daily-question&envId=2025-04-14
 
 
 class Solution {

@@ -1,4 +1,4 @@
-https://leetcode.com/problems/count-good-triplets-in-an-array/submissions/1607693797/?envType=daily-question&envId=2025-04-15
+// https://leetcode.com/problems/count-good-triplets-in-an-array/submissions/1607693797/?envType=daily-question&envId=2025-04-15
 
 class Solution {
     public long goodTriplets(int[] nums1, int[] nums2) {
