@@ -1,4 +1,4 @@
-https://leetcode.com/problems/count-the-hidden-sequences/description/?envType=daily-question&envId=2025-04-21
+// https://leetcode.com/problems/count-the-hidden-sequences/description/?envType=daily-question&envId=2025-04-21
 
 class Solution {
     public int numberOfArrays(int[] differences, int lower, int upper) {

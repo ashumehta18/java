@@ -1,4 +1,4 @@
-https://leetcode.com/problems/find-the-original-typed-string-i/?envType=daily-question&envId=2025-07-01
+// https://leetcode.com/problems/find-the-original-typed-string-i/?envType=daily-question&envId=2025-07-01
 
 class Solution {
     public int possibleStringCount(String word) {
