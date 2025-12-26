@@ -1,5 +1,7 @@
 https://leetcode.com/problems/find-the-original-typed-string-i/?envType=daily-question&envId=2025-07-01
 
+// Time Complexity: O(n) - Single pass through the string
+// Space Complexity: O(1) - Only constant extra space used
 class Solution {
     public int possibleStringCount(String word) {
          int n = word.length();

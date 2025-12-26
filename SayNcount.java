@@ -1,5 +1,7 @@
 https://leetcode.com/problems/count-and-say/submissions/1612169720/
 
+// Time Complexity: O(n * m) - n iterations, each processing string of length m
+// Space Complexity: O(m) - StringBuilder for current result
 class Solution {
     public String countAndSay(int n) {
         if (n == 1) return "1";

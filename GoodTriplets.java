@@ -1,5 +1,7 @@
 https://leetcode.com/problems/count-good-triplets/?envType=daily-question&envId=2025-04-14
 
+// Time Complexity: O(n³) - Three nested loops through the array
+// Space Complexity: O(1) - Only constant extra space used
 
 class Solution {
     public int countGoodTriplets(int[] arr, int a, int b, int c) {

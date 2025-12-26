@@ -20,6 +20,9 @@ Constraints:
 words[i] and pref consist of lowercase English letters.
 
 SOLUTION:-
+
+// Time Complexity: O(n * m) - n words, each checking prefix of length m
+// Space Complexity: O(1) - Only constant extra space used
   class Solution {
     public int prefixCount(String[] words, String pref) {
         int count = 0;

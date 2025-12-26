@@ -1,5 +1,7 @@
 https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/?envType=daily-question&envId=2025-04-17
 
+// Time Complexity: O(n²) - Nested loops iterate through all pairs
+// Space Complexity: O(1) - Only constant extra space used
 class Solution {
     public int countPairs(int[] nums, int k) {
         int count = 0;

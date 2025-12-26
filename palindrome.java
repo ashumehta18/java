@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// Time Complexity: O(log n) - Number of digits in n (while loop iterations)
+// Space Complexity: O(1) - Only constant extra space used
 public class palindrome{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

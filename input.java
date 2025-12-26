@@ -1,4 +1,6 @@
-mport java.util.*;
+// Time Complexity: O(1) - Fixed number of input/output operations
+// Space Complexity: O(1) - Only constant extra space used
+import java.util.*;
 public class input{
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);

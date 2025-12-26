@@ -1,5 +1,7 @@
 https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/description/?envType=daily-question&envId=2025-04-08
 
+// Time Complexity: O(n²) - While loop with nested HashMap operations
+// Space Complexity: O(n) - List and HashMap storage
 class Solution {
     public int minimumOperations(int[] nums) {
         int cnt = 0, temp;

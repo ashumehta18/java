@@ -1,5 +1,7 @@
 https://leetcode.com/problems/container-with-most-water/description/
 
+// Time Complexity: O(n) - Single pass through the array with two pointers
+// Space Complexity: O(1) - Only constant extra space used
 class Solution {
     public int maxArea(int[] height) {
         int left = 0;

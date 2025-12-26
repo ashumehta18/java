@@ -36,6 +36,9 @@ words[i] consists only of lowercase English letters.
 
 
  SOLUTION:-
+
+// Time Complexity: O(n² * m) - n² pairs, each checking prefix/suffix of length m
+// Space Complexity: O(1) - Only constant extra space used
  class Solution {
     public int countPrefixSuffixPairs(String[] words) {
         int count = 0;

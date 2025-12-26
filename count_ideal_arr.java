@@ -1,5 +1,7 @@
 https://leetcode.com/problems/count-the-number-of-ideal-arrays/description/
 
+// Time Complexity: O(maxValue * maxLength) - DP with nested loops
+// Space Complexity: O(maxValue * maxLength) - DP array storage
 
 class Solution {
     static final int mod = 1000000007;

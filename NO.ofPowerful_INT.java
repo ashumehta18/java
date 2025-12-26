@@ -1,5 +1,7 @@
 https://leetcode.com/problems/count-the-number-of-powerful-integers/description/?envType=daily-question&envId=2025-04-10
 
+// Time Complexity: O(d²) - Where d is the number of digits, DP with digit iteration
+// Space Complexity: O(d) - DP array storage for prefix length
 
 class Solution {
 

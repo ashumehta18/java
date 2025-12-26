@@ -1,4 +1,6 @@
                                 
+// Time Complexity: O(√n) - Loop runs up to square root of n
+// Space Complexity: O(d) - ArrayList stores d divisors
 import java.util.ArrayList;
 
 public class Main {
